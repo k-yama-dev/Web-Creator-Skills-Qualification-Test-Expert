@@ -71,6 +71,7 @@ nav ul li#nav_contact a {
 }
 
 footer {
+    clear: both;
     padding-top: 70px;
 }
 /* 基本レイアウト ここまで↑ */
