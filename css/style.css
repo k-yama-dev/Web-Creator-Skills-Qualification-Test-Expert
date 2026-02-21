@@ -56,6 +56,23 @@ nav ul li#nav_contact a {
     background-image: url(../images/nav4.png);
 }
 
+#content {
+    overflow: hidden;
+}
+
+#main {
+    float: left;
+    width: 570px;
+}
+
+#sub {
+    float: right;
+    width: 230px;
+}
+
+footer {
+    padding-top: 70px;
+}
 /* 基本レイアウト ここまで↑ */
 
 /* トップページ ここから↓ */
