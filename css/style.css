@@ -127,6 +127,20 @@ nav ul li a:hover {
 /* トップページ ここまで↑ */
 
 /* 「結婚式場のコンセプト」ページ ここから↓ */
+.concept_box {
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+
+.image_right {
+    float: right;
+    margin-left: 25px;
+}
+
+.image_left {
+    float: left;
+    margin-right: 25px;
+}
 
 /* 「結婚式場のコンセプト」ページ ここまで↑ */
 
