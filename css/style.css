@@ -142,6 +142,11 @@ nav ul li a:hover {
     margin-right: 25px;
 }
 
+.concept_box:last-child,
+.concept_box p:last-child{
+    margin-bottom: 0;
+}
+
 /* 「結婚式場のコンセプト」ページ ここまで↑ */
 
 /* 「プランのご案内」ページ ここから↓ */
